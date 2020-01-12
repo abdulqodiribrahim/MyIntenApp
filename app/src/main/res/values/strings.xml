@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyIntenApp</string>
+    <string name="Move">Move Activity</string>
+    <string name="Move_Data">Move Data</string>
+    <string name="Call">Panggilan</string>
+
+</resources>
